@@ -1,0 +1,1 @@
+./mercanis.com.svg

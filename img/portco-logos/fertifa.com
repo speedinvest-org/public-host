@@ -1,0 +1,1 @@
+./fertifa.com.jpg

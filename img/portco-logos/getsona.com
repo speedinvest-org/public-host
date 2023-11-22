@@ -1,0 +1,1 @@
+./getsona.com.png

@@ -1,0 +1,1 @@
+./fleksy.com.jpg

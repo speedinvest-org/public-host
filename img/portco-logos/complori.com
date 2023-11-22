@@ -1,0 +1,1 @@
+./complori.com.jpg

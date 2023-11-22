@@ -1,0 +1,1 @@
+./ellipsus.com.png

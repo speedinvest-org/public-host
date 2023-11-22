@@ -1,0 +1,1 @@
+./fiatrepublic.com.png

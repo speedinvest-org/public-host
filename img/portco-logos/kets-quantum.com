@@ -1,0 +1,1 @@
+./kets-quantum.com.png

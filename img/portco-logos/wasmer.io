@@ -1,0 +1,1 @@
+./wasmer.io.jpg

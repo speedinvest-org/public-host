@@ -1,0 +1,1 @@
+./gokonfetti.com.jpg

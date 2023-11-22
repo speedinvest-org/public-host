@@ -1,0 +1,1 @@
+./getfairplay.com.png

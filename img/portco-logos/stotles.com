@@ -1,0 +1,1 @@
+./stotles.com.jpg

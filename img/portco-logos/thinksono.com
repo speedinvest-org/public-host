@@ -1,0 +1,1 @@
+./thinksono.com.jpg

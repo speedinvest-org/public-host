@@ -1,0 +1,1 @@
+./swipeguide.com.jpg

@@ -1,0 +1,1 @@
+./getkwest.com.jpg

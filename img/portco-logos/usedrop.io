@@ -1,0 +1,1 @@
+./usedrop.io.svg

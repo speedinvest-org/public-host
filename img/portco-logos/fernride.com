@@ -1,0 +1,1 @@
+./fernride.com.jpg

@@ -1,0 +1,1 @@
+./pauatech.com.png

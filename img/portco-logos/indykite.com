@@ -1,0 +1,1 @@
+./indykite.com.jpg

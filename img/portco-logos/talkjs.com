@@ -1,0 +1,1 @@
+./talkjs.com.jpg

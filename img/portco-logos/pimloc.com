@@ -1,0 +1,1 @@
+./pimloc.com.jpg
