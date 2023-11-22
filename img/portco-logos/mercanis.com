@@ -1,1 +1,0 @@
-./img/portco-logos/mercanis.com.png

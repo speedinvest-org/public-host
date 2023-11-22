@@ -1,1 +1,0 @@
-./img/portco-logos/agrantis.com.png
