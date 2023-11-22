@@ -1,1 +1,1 @@
-./ellipsus.com.png
+./img/portco-logos/ellipsus.com.png

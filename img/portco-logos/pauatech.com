@@ -1,1 +1,1 @@
-./pauatech.com.png
+./img/portco-logos/pauatech.com.png

@@ -1,1 +1,1 @@
-./boltzbit.com.png
+./img/portco-logos/boltzbit.com.png

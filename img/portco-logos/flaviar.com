@@ -1,1 +1,1 @@
-./flaviar.com.png
+./img/portco-logos/flaviar.com.png

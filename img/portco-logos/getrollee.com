@@ -1,1 +1,1 @@
-./getrollee.com.png
+./img/portco-logos/getrollee.com.png

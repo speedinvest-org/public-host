@@ -1,1 +1,1 @@
-./lemonway.com.png
+./img/portco-logos/lemonway.com.png

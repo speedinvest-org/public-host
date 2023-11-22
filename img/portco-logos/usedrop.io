@@ -1,1 +1,1 @@
-./usedrop.io.svg
+./img/portco-logos/usedrop.io.png

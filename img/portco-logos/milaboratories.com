@@ -1,1 +1,1 @@
-./milaboratories.com.png
+./img/portco-logos/milaboratories.com.png

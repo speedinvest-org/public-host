@@ -1,1 +1,1 @@
-./lizzapp.com.png
+./img/portco-logos/lizzapp.com.png

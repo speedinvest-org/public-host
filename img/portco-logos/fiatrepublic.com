@@ -1,1 +1,1 @@
-./fiatrepublic.com.png
+./img/portco-logos/fiatrepublic.com.png

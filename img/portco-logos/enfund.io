@@ -1,1 +1,1 @@
-./enfund.io.png
+./img/portco-logos/enfund.io.png

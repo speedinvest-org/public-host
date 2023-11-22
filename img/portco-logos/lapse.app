@@ -1,1 +1,1 @@
-./lapse.app.png
+./img/portco-logos/lapse.app.png

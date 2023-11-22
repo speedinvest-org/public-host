@@ -1,1 +1,1 @@
-./lollipopai.com.png
+./img/portco-logos/lollipopai.com.png

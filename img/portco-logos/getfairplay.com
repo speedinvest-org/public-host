@@ -1,1 +1,1 @@
-./getfairplay.com.png
+./img/portco-logos/getfairplay.com.png

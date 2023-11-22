@@ -1,1 +1,1 @@
-./apiday.com.svg
+./img/portco-logos/apiday.com.png

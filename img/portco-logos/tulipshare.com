@@ -1,1 +1,1 @@
-./tulipshare.com.png
+./img/portco-logos/tulipshare.com.png

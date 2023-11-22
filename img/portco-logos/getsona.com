@@ -1,1 +1,1 @@
-./getsona.com.png
+./img/portco-logos/getsona.com.png

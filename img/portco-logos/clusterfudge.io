@@ -1,1 +1,1 @@
-./clusterfudge.io.png
+./img/portco-logos/clusterfudge.io.png

@@ -1,1 +1,1 @@
-./kets-quantum.com.png
+./img/portco-logos/kets-quantum.com.png
