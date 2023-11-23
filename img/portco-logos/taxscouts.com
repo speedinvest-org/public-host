@@ -1,1 +1,1 @@
-./img/portco-logos/taxscouts.com.png
+./taxscouts.com.png

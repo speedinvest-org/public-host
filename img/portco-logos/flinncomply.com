@@ -1,1 +1,1 @@
-./img/portco-logos/flinncomply.com.png
+./flinncomply.com.png

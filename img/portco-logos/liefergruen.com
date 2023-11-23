@@ -1,1 +1,1 @@
-./img/portco-logos/liefergruen.com.png
+./liefergruen.com.png

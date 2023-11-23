@@ -1,1 +1,1 @@
-./img/portco-logos/billie.io.png
+./billie.io.png

@@ -1,1 +1,1 @@
-./img/portco-logos/blindmate.app.png
+./blindmate.app.png

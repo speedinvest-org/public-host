@@ -1,1 +1,1 @@
-./img/portco-logos/bitfount.com.png
+./bitfount.com.png

@@ -1,1 +1,1 @@
-./img/portco-logos/starton.io.png
+./starton.io.png

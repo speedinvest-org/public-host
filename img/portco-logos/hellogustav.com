@@ -1,1 +1,1 @@
-./img/portco-logos/hellogustav.com.png
+./hellogustav.com.png

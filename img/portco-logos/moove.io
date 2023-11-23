@@ -1,1 +1,1 @@
-./img/portco-logos/moove.io.png
+./moove.io.png

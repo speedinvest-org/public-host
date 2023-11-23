@@ -1,1 +1,1 @@
-./img/portco-logos/doccla.com.png
+./doccla.com.png

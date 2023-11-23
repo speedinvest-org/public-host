@@ -1,1 +1,1 @@
-./img/portco-logos/hexafarms.com.png
+./hexafarms.com.png

@@ -1,1 +1,1 @@
-./img/portco-logos/gokatch.com.png
+./gokatch.com.png

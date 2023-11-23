@@ -1,1 +1,1 @@
-./img/portco-logos/ahead-app.com.png
+./ahead-app.com.png

@@ -1,1 +1,1 @@
-./img/portco-logos/one-five.com.png
+./one-five.com.png

@@ -1,1 +1,1 @@
-./img/portco-logos/prewave.com.png
+./prewave.com.png

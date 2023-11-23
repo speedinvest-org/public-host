@@ -1,1 +1,1 @@
-./img/portco-logos/blubblub.org.png
+./blubblub.org.png

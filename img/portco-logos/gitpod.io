@@ -1,1 +1,1 @@
-./img/portco-logos/gitpod.io.png
+./gitpod.io.png
