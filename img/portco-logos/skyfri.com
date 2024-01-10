@@ -1,0 +1,1 @@
+./skyfri.com.png

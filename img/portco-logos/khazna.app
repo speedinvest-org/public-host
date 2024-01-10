@@ -1,0 +1,1 @@
+./khazna.app.png
