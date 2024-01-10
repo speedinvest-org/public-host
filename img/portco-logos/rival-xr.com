@@ -1,0 +1,1 @@
+./rival-xr.com.png
