@@ -1,0 +1,1 @@
+./getpliant.com.png

@@ -1,0 +1,1 @@
+./yokoy.io.png

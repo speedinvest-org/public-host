@@ -1,0 +1,1 @@
+./sylvera.com.jpg

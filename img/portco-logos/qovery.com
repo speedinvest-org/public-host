@@ -1,0 +1,1 @@
+./qovery.com.png
