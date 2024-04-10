@@ -1,1 +1,0 @@
-./lizzapp.com.png

@@ -1,1 +1,0 @@
-./gokatch.com.png

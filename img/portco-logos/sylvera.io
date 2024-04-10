@@ -1,1 +1,0 @@
-./sylvera.io.jpg

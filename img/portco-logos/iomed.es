@@ -1,1 +1,0 @@
-./iomed.es.jpg
