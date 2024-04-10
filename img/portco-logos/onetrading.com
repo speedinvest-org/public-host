@@ -1,0 +1,1 @@
+./onetrading.com.png

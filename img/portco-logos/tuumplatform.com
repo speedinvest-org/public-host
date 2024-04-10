@@ -1,1 +1,0 @@
-./tuumplatform.com.png

@@ -1,0 +1,1 @@
+./opendue.com.jpg
