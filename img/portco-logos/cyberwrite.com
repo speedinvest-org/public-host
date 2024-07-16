@@ -1,1 +1,1 @@
-./cyberwrite.com.jpg
+cyberwrite.com.png
