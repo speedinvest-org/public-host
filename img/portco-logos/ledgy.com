@@ -1,1 +1,1 @@
-./ledgy.com.jpg
+ledgy.com.png
